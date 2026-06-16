@@ -85,7 +85,7 @@ fun_fact: I turn coffee into code ☕ → 💻
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zawy2004&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true" width="95%" alt="Activity Graph" />
+[![3D Contrib](./profile-3d-contrib/profile-night-green.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 </div>
 
